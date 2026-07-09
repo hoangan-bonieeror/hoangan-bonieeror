@@ -8,7 +8,7 @@ Building software that bridges web applications, embedded systems, and industria
 
 ## About Me
 
-I'm An Nguyen, a Software Developer with 2+ years of experience at a Japan-affiliated company, where I built full-stack web applications (Angular, Python/Flask) and embedded systems (Python, Raspberry Pi) for industrial automation. My work spans robotics control (AMR/AGV using ROS2, SLAM, Nav2), real-time environmental monitoring, and factory process automation. 
+I'm An Nguyen, a Software Developer with 2+ years of experience at a Unitec Solution Vietnam company, where I built full-stack web applications (Angular, Python/Flask) and embedded systems (Python, Raspberry Pi) for industrial automation. My work spans robotics control (AMR/AGV using ROS2, SLAM, Nav2), real-time environmental monitoring, and factory process automation. 
 
 I enjoy solving problems that require both clean software architecture and reliable hardware integration, particularly in robotics and industrial IoT contexts.
 
@@ -32,7 +32,7 @@ I enjoy solving problems that require both clean software architecture and relia
 
 ## Experience
 
-### Software Developer — Japan-affiliated Company
+### Software Developer — Unitec Solution Vietnam Company
 **June 2023 – November 2025** (2 years 5 months)
 
 - Developed full-stack web applications using Angular and Python/Flask for industrial robotics control (AMR, AGV)
